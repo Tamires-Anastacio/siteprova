@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(179, 91, 91);
+}
+.fundomenu{
+    background-color: rgb(233, 157, 157);
+}
+.carousel-inner{
+    max-width: 1800px;
+    border:1px solid rgb(216, 17, 17);
+    display: block;
+    margin: 0 auto;
+}
+footer{
+    background-color: rgb(230, 231, 154);
+    padding: 3%;
+}
+
+.gallery{
+    margin: 2%;
+}
+.card{
+    margin: 2%;
+}
